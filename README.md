@@ -12,3 +12,10 @@ My field is Data Science and Business Analytics for the May 2024 Batch.
 Predict the percentage of marks that a student is expected to score based upon the number of hours they studied
 
 dataset- http://bit.ly/w-data
+
+https://github.com/fatihfurkankurt/The-Spark-Foundation-Internship2024
+
+**Requirementes**
+
+ - pandas - numpy - matplotlib - seaborn - sklearn
+>**Predicted Score for 9.25 hours: 93.893 percent**
